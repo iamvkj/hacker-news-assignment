@@ -1,0 +1,226 @@
+{
+    "hits": [
+        {
+            "created_at": "2019-01-21T03:30:17.000Z",
+            "title": "Programming Fonts – Test Drive",
+            "url": "http://app.programmingfonts.org/",
+            "author": "ChrisGranger",
+            "points": 712,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 283,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1548041417,
+            "relevancy_score": 8616,
+            "_tags": [
+                "story",
+                "author_ChrisGranger",
+                "story_18957406"
+            ],
+            "objectID": "18957406",
+            "_highlightResult": {
+                "title": {
+                    "value": "Programming Fonts – \u003cem\u003eTest\u003c/em\u003e Drive",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "test"
+                    ]
+                },
+                "url": {
+                    "value": "http://app.programmingfonts.org/",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "ChrisGranger",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-04-07T22:37:40.000Z",
+            "title": "We’re working on 1M Covid-19 testing capacity per day",
+            "url": "https://www.billiontoone.com/covid-19",
+            "author": "dvdt",
+            "points": 684,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 238,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1586299060,
+            "_tags": [
+                "story",
+                "author_dvdt",
+                "story_22808208"
+            ],
+            "objectID": "22808208",
+            "_highlightResult": {
+                "title": {
+                    "value": "We’re working on 1M Covid-19 \u003cem\u003etest\u003c/em\u003eing capacity per day",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "test"
+                    ]
+                },
+                "url": {
+                    "value": "https://www.billiontoone.com/covid-19",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "dvdt",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2022-05-04T20:39:36.000Z",
+            "title": "IBM's Asshole Test",
+            "url": "https://johnpublic.mataroa.blog/blog/the-asshole-test/",
+            "author": "johnpublic",
+            "points": 683,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 576,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1651696776,
+            "_tags": [
+                "story",
+                "author_johnpublic",
+                "story_31265554"
+            ],
+            "objectID": "31265554",
+            "_highlightResult": {
+                "title": {
+                    "value": "IBM's Asshole \u003cem\u003eTest\u003c/em\u003e",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "test"
+                    ]
+                },
+                "url": {
+                    "value": "https://johnpublic.mataroa.blog/blog/the-asshole-\u003cem\u003etest\u003c/em\u003e/",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "test"
+                    ]
+                },
+                "author": {
+                    "value": "johnpublic",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2019-02-01T19:35:15.000Z",
+            "title": "One of the Biggest At-Home DNA Testing Companies Is Working with the FBI",
+            "url": "https://www.buzzfeednews.com/article/salvadorhernandez/family-tree-dna-fbi-investigative-genealogy-privacy",
+            "author": "chollida1",
+            "points": 677,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 314,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1549049715,
+            "relevancy_score": 8630,
+            "_tags": [
+                "story",
+                "author_chollida1",
+                "story_19057643"
+            ],
+            "objectID": "19057643",
+            "_highlightResult": {
+                "title": {
+                    "value": "One of the Biggest At-Home DNA \u003cem\u003eTest\u003c/em\u003eing Companies Is Working with the FBI",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "test"
+                    ]
+                },
+                "url": {
+                    "value": "https://www.buzzfeednews.com/article/salvadorhernandez/family-tree-dna-fbi-investigative-genealogy-privacy",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "author": {
+                    "value": "chollida1",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "created_at": "2020-05-20T19:36:33.000Z",
+            "title": "Students are failing AP tests because the College Board can’t handle HEIC images",
+            "url": "https://www.theverge.com/2020/5/20/21262302/ap-test-fail-iphone-photos-glitch-email-college-board-jpeg-heic",
+            "author": "danso",
+            "points": 669,
+            "story_text": null,
+            "comment_text": null,
+            "num_comments": 551,
+            "story_id": null,
+            "story_title": null,
+            "story_url": null,
+            "parent_id": null,
+            "created_at_i": 1590003393,
+            "_tags": [
+                "story",
+                "author_danso",
+                "story_23250831"
+            ],
+            "objectID": "23250831",
+            "_highlightResult": {
+                "title": {
+                    "value": "Students are failing AP \u003cem\u003etest\u003c/em\u003es because the College Board can’t handle HEIC images",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "test"
+                    ]
+                },
+                "url": {
+                    "value": "https://www.theverge.com/2020/5/20/21262302/ap-\u003cem\u003etest\u003c/em\u003e-fail-iphone-photos-glitch-email-college-board-jpeg-heic",
+                    "matchLevel": "full",
+                    "fullyHighlighted": false,
+                    "matchedWords": [
+                        "test"
+                    ]
+                },
+                "author": {
+                    "value": "danso",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 622532,
+    "page": 0,
+    "nbPages": 50,
+    "hitsPerPage": 5,
+    "exhaustiveNbHits": false,
+    "exhaustiveTypo": true,
+    "query": "test",
+    "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026query=test",
+    "processingTimeMS": 3
+}
